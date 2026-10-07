@@ -1,37 +1,37 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Olá, eu sou o Samuel!</h1>
 
-###
+<p align="center">
+  Estudante de Engenharia de Software na FIAP
+</p>
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+<h2>Sobre mim</h2>
+
+<p>
+  Atualmente estou iniciando minha jornada na área de tecnologia e aprendendo os fundamentos de programação e desenvolvimento de software.
+</p>
+
+<p>
+  Este GitHub é onde compartilho meus estudos, exercícios, projetos acadêmicos e minha evolução ao longo da graduação.
+</p>
+
+<h2>Atualmente aprendendo</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="55" alt="Python" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="55" alt="Git" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub" />
 </div>
 
-###
+<br>
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+<p align="center">
+  Python • Lógica de Programação • Algoritmos • Git & GitHub
+</p>
 
-###
+<h2>Objetivo</h2>
+
+<p>
+  Desenvolver uma base sólida em Engenharia de Software, evoluir minhas habilidades em programação e construir projetos cada vez mais completos ao longo da graduação.
+</p>
